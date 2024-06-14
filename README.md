@@ -5,7 +5,7 @@ Il file python AlogritmoLumping.py contiene l'implementazione dello pseudo-codic
 
 
 ## Esecuzione del codice
-Sotto la definizione dell'algoritmo di pruning si trova un esempio di struttura di una piccola rete neurale. La struttura della rete neurale può essere modellata a piacimento modificando i parametri come segue:
+Sotto la definizione dell'algoritmo di pruning si trova un esempio di struttura di una piccola rete neurale. La struttura di quest'ultima può essere modellata a piacimento modificando i parametri come segue:
 * k ---> numero di layer della rete
 * S ---> definizione del numero e del nome dei neuroni per ogni layer: {0, 1} se voglio due neuroni in un layer, {0, 1, 2} se ne voglio 3 ecc...
 * W ---> definisco per ogni layer i collegamenti tra i neuroni e il relativo peso: 1: {(0, 2): 0.1...  indica che per il layer 1 il neurone 0 si collega al neurone 2 del layer successivo con un peso di 0.1
