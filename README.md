@@ -1,7 +1,7 @@
 # Lumpability
 
 Il file python AlogritmoLumping.py contiene l'implementazione dello pseudo-codice che si trova all'interno dell'articolo scientifico sotto citato.
-*  [Compressing Neural Networks via Formal Methods]([https://www.example.com/articolo](https://www.sciencedirect.com/science/article/pii/S0893608024003356))
+*  Prova [Compressing Neural Networks via Formal Methods]([https://www.example.com/articolo](https://www.sciencedirect.com/science/article/pii/S0893608024003356))
 
 
 ## Esecuzione del codice
