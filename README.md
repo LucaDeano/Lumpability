@@ -14,7 +14,7 @@ Sotto la definizione dell'algoritmo di pruning si trova un esempio di struttura 
 
 ## Risultato
 Viene riportato su terminale come segue:
-* k ---> mostra numero di laye della rete
+* k_prime ---> mostra numero di laye della rete
 * S_prime ---> mostra il dizionario contenente le classi di equivalenza per ogni layer
 * W_prime ---> mostra i nuovi pesi della rete
 * b_prime ---> mostra i bias della rete
